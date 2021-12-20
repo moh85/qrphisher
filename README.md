@@ -1,9 +1,8 @@
-# QRLJackingJS: Steal QR Login Session Using Your Browser Only.
+# QRLJacking Made Easy: QRLJackingJS
 
 Using a web browser only, this tool will copy the login QR code from your browser and send it to your own server so you can display it in a phishing page (~ real time). The QR code login method is supported by many apps including WhatsApp and Telegram, this tool will allow you to hack into victims accounts in no time.
 
 # Documentation (Usage)
-
 
 #### Step 1.
 
@@ -18,13 +17,13 @@ In the top address bar you can see permissions button on the left / right side. 
 A. add the JQuery library code to the target browser tab using the Inspect Element → Console → Copy & Paste & Hit Enter.
 
 ```html
-From: ./code/jquery.min.js
+Copy the code from: jquery.min.js
 ```
 
 B. add QRLJackingJS code (included) to the target browser tab using the Inspect Element → Console → Copy & Paste & Hit Enter.
 
 ```html
-From: ./code/qrljackingjs.js
+Copy the code from: qrljackingjs.min.js
 ```
 
 #### Step 4.
