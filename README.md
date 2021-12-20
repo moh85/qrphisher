@@ -1,4 +1,9 @@
-# QRLJacking Made Easy: QRLJackingJS
+
+<p align="center">
+<img src="https://i.imgur.com/O8ppAj4.png" width="550px">
+</p>
+
+# About
 
 Using a web browser only, this tool will copy the login QR code from your browser and send it to your own server so you can display it in a phishing page (~ real time). The QR code login method is supported by many apps including WhatsApp and Telegram, this tool will allow you to hack into victims accounts in no time.
 
