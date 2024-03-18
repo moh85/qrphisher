@@ -9,9 +9,9 @@ Visit our online platform at [QRPhisher Showcase](https://qr.shieldoma.com/).
 
 ![QRPhisher Showcase](https://www.shieldoma.com/media/qrphisher-showcase.png)
 
-## Full POS Video (Tested on web.whatsapp.com)
+## Full POC Video (Tested on web.whatsapp.com)
 
-[![POS](https://www.shieldoma.com/media/qrphisher-thumb-2.jpg)](https://www.dailymotion.com/video/k6DJYjM5fm5H1tAeSoi)
+[![POC](https://www.shieldoma.com/media/qrphisher-thumb-2.jpg)](https://www.dailymotion.com/video/k6DJYjM5fm5H1tAeSoi)
 
 ## How It Works
 
