@@ -1,18 +1,5 @@
 # QRPhisher | Browser-based QRLJacking Attack Tool.
 
-## QRPhisher Showcase Demo (Online)
-
-Visit our online platform at [QRPhisher Showcase](https://qr.shieldoma.com/).
-- Create a new attack
-- Edit the page using the available options
-- Test the attack with another browser or device
-
-![QRPhisher Showcase](https://www.shieldoma.com/media/qrphisher-showcase.png)
-
-## Full POC Video (Tested on web.whatsapp.com)
-
-[![POC](https://www.shieldoma.com/media/qrphisher-thumb-2.jpg)](https://www.dailymotion.com/video/k6DJYjM5fm5H1tAeSoi)
-
 ## How It Works
 
 ![QRPhisher](https://www.shieldoma.com/media/qrphisher-how-it-works.png)
@@ -57,6 +44,20 @@ At the top of the plugin source code, you will find this settings JSON object. Y
     - `selector`: main QR code HTML element, which you can obtain using the inspect element tool.
     - `reload_selector`: some services add a button to reload the QR code after inactivity or after a specific period of time, used to automatically reload the QR code, which you can obtain using the inspect element tool.
     - `domain_match`: **optional**, used to automatically choose the "Selector" and "Reload Selector" if the target website matches any domain in the list.
+
+
+## QRPhisher Showcase Demo (Online)
+
+Visit our online platform at [QRPhisher Showcase](https://qr.shieldoma.com/).
+- Create a new attack
+- Edit the page using the available options
+- Test the attack with another browser or device
+
+![QRPhisher Showcase](https://www.shieldoma.com/media/qrphisher-showcase.png)
+
+## Full POC Video (Tested on web.whatsapp.com)
+
+[![POC](https://www.shieldoma.com/media/qrphisher-thumb-2.jpg)](https://www.dailymotion.com/video/k6DJYjM5fm5H1tAeSoi)
 
 ## Technical Details
 
